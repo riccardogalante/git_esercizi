@@ -1,4 +1,5 @@
-package com.develhope.Deploy.Environments.Variables2.controllers;
+package com.develhope.DeployEnvironmentsVariables02.controllers;
+
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;

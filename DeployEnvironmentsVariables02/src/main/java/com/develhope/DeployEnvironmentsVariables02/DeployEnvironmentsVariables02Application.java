@@ -1,4 +1,4 @@
-package com.develhope.Deploy.Environments.Variables2;
+package com.develhope.DeployEnvironmentsVariables02;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

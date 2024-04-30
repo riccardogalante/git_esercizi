@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.develhope</groupId>
-	<artifactId>Deploy-Environments-Variables-02</artifactId>
+	<artifactId>DeployEnvironmentsVariables02</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Deploy-Environments-Variables-02</name>
+	<name>DeployEnvironmentsVariables02</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>

@@ -1,4 +1,4 @@
-/*package com.develhope.Deploy.Environments.Variables2;
+package com.develhope.DeployEnvironmentsVariables02;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -10,4 +10,4 @@ class DeployEnvironmentsVariables02ApplicationTests {
 	void contextLoads() {
 	}
 
-}*/
+}
